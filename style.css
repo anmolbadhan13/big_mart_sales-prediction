@@ -1,0 +1,42 @@
+/* style.css */
+body {
+    background-image: url('https://th.bing.com/th/id/OIP._T5I3AkZr-sMAZd80t6legHaE8?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+.stApp {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #ff6347;
+    text-align: center;
+}
+
+h2 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.sidebar .sidebar-content {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.stButton > button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    background-color: #45a049;
+}
